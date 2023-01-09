@@ -1,0 +1,12 @@
+{
+  "name": "chavez-laboratory-modterm-exam-set-b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "exam.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node exam" 
+  },
+  "author": "Chavez, Sherrelyn",
+  "license": "ISC"
+}
