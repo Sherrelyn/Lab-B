@@ -1,7 +1,6 @@
 const add = require ('./add')
 const read = require ('./read')
 
-//get user input
 const data = process.argv
 
 var note = {}
